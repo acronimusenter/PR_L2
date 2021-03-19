@@ -1,5 +1,31 @@
-.img
+body {
+    background-color: pink;
+}
+
+p {
+    font-size: 20px;
+
+}
+.lewy
 {
-    width: 150px;
+    width: 50%;
+    float: left;
+}
+.prawy
+{
+    width: 50%;
+    float: right;
+}
+ul li
+{
+    display: inline;
+}
+.stopka
+{
+    width: 100%;
     height: auto;
+    float: left;
+    text-align: center;
+
+
 }
