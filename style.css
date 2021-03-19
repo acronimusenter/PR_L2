@@ -19,6 +19,7 @@ p {
 ul li
 {
     display: inline;
+    padding: 1em;
 }
 .stopka
 {
